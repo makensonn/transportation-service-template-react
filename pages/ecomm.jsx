@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
-import ecommImg from '../public/assets/projects/ecomm.png'; //Tic Tac Toe
 import Countdown from '../components/Countdown';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 import { HiOutlineChevronDoubleLeft } from 'react-icons/hi';
+import ProfileImg from '../public/assets/main.png';
 
 const EcommercePage = () => {
   return (
@@ -17,7 +17,7 @@ const EcommercePage = () => {
           className='absolute' 
           layout='fill'
           objectFit='cover'
-          src={ecommImg}
+          src={ProfileImg}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
