@@ -12,7 +12,6 @@ const artSource ='https://github.com/makensonn/art'; //Art
 const gymSource ='https://github.com/makensonn/gym'; //Gym
 const cofSource ='https://github.com/makensonn/cof'; //Cof
 
-import ProjectItem from './ProjectItem';
 import ProjectItems from './ProjectItems';
 
 const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#0a192f] border-zinc-500'

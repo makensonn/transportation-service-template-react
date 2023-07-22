@@ -20,7 +20,7 @@ const About = () => {
             events, and funeral services. 
           <br></br><br></br>
             Our exclusive fleet of meticulously maintained luxury vehicles 
-            ensures that every journey is a testament to opulence and sophistication. Whether you're a 
+            ensures that every journey is a testament to opulence and sophistication. Whether you&#39;re a 
             discerning traveler seeking a seamless airport transfer, a couple celebrating a milestone event, 
             or a family requiring compassionate support during a funeral, our professional chauffeurs will 
             cater to your every need with utmost care and discretion.
