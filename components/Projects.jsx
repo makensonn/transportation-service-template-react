@@ -36,7 +36,7 @@ const Projects = () => {
           />
 
           <ProjectItems
-            title='Events'
+            title='Event'
             backgroundImg={artImg}
             projectUrl='/#contact'
             sourceUrl={artSource}
@@ -44,7 +44,7 @@ const Projects = () => {
           /> 
 
           <ProjectItems
-            title='Funerals'
+            title='Funeral'
             backgroundImg={gymImg}
             projectUrl='/#contact'
             sourceUrl={gymSource}
