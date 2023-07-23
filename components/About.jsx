@@ -5,7 +5,7 @@ import ProfileImg from '../public/assets/about.png';
 import { HiOutlineChevronDoubleLeft } from 'react-icons/hi';
 
 
-const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#0a192f] border-zinc-500'
+const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#000000] border-[#000000]'
 
 const About = () => {
   return (

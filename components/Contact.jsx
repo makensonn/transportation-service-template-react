@@ -8,7 +8,7 @@ import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
 
 const phone='561-541-9740'
 
-const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#0a192f] border-zinc-500'
+const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#000000] border-[#000000]'
 
 const Contact = () => {
 

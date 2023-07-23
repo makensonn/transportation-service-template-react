@@ -14,7 +14,7 @@ const cofSource ='https://github.com/makensonn/cof'; //Cof
 
 import ProjectItems from './ProjectItems';
 
-const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#0a192f] border-zinc-500'
+const titleStyle = 'text-4xl font-bold inline border-b-4 text-[#000000] border-[#000000]'
 
 const gridOld = 'grid md:grid-cols-2 gap-8'
 
