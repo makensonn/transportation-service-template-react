@@ -81,7 +81,7 @@ const Navbar = () => {
               <Link legacyBehavior href="/#about">
                 About
               </Link>
-            </li>            
+            </li>
             <li className={navLinkStyle}>
               <Link legacyBehavior href="/#contact">
                 Contact
@@ -136,7 +136,7 @@ const Navbar = () => {
                 <li onClick={() => setNav(false)} className="py-4 text-sm">
                   Services
                 </li>
-              </Link>              
+              </Link>
               <Link legacyBehavior href="/#about">
                 <li onClick={() => setNav(false)} className="py-4 text-sm">
                   About

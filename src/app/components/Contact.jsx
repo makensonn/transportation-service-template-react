@@ -8,7 +8,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLink, FaLinkedinIn } from "react-icons/fa";
 import { HiOutlineHome, HiOutlineChevronDoubleUp } from "react-icons/hi";
 import GuittoImg from "../assets/about.png";
-const phone='561-541-9740'
+const phone = "561-541-9740";
 
 // Tailwind CSS Classes
 const titleStyle = "text-4xl font-bold inline border-b-4 border-red-600";
@@ -47,19 +47,14 @@ const Contact = () => {
               <div>
                 <Image className={contactImageStyle} src={GuittoImg} alt="/" />
               </div>
+              <div></div>
               <div>
-              </div>
-              <div>
-                <p className='uppercase pt-8 text-center'>{phone}</p>
-                <div className='flex items-center justify-center py-4'>
-                <a
-                    href={`tel:${phone}`}
-                    target='_blank'
-                    rel='noreferrer'
-                  >
-                      <div className='rounded-full shadow-lg shadow-neutral-950 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        Call Now
-                      </div>
+                <p className="uppercase pt-8 text-center">{phone}</p>
+                <div className="flex items-center justify-center py-4">
+                  <a href={`tel:${phone}`} target="_blank" rel="noreferrer">
+                    <div className="rounded-full shadow-lg shadow-neutral-950 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
+                      Call Now
+                    </div>
                   </a>
                 </div>
               </div>
