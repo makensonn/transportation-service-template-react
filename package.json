@@ -1,38 +1,28 @@
 {
-  "homepage": "https://makensonn.github.io/guitto/",
-  "name": "guitto",
+  "name": "new",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "vercel"
+    "lint": "next lint"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.0.1",
-    "css": "^3.0.0",
-    "date-fns": "^2.30.0",
-    "dotenv": "^16.0.1",
-    "firebase": "^9.9.3",
-    "gh-pages": "^4.0.0",
-    "gitignore": "^0.7.0",
-    "next": "^12.2.5",
-    "node": "^16.17.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.4.0",
-    "react-player": "^2.12.0",
-    "react-youtube": "^10.1.0",
-    "sharp": "^0.30.7"
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.7",
-    "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6",
-    "postcss": "^8.4.13",
-    "tailwindcss": "^3.0.24"
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
   }
 }
