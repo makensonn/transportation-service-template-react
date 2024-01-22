@@ -152,7 +152,7 @@ const Navbar = () => {
               <p className="uppercase tracking-widest">Let&#39;s Connect</p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                 <a
-                  href="https://www.linkedin.com/in/makensonnoel/"
+                  href="Social Media Link"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -162,7 +162,7 @@ const Navbar = () => {
                 </a>
 
                 <a
-                  href="https://github.com/makjustcode"
+                  href="Social Media Link"
                   target="_blank"
                   rel="noreferrer"
                 >
